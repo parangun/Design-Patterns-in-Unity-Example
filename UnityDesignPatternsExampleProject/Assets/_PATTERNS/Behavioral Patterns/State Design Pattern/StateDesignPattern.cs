@@ -124,7 +124,7 @@ namespace StatePattern
 
 
 
-
+    //@@
 	public class HasCard : ATMState
 	{
 		protected ATMMachine atm;
