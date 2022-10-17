@@ -123,7 +123,7 @@ namespace StatePattern
 	}
 
 
-
+    //Test2
     //@@
 	public class HasCard : ATMState
 	{
